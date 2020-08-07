@@ -7,7 +7,7 @@
 
 [license-badge]: https://img.shields.io/github/license/pmqueiroz/proffy?color=%238257E5
 [star-badge]: https://img.shields.io/github/issues/Gabrielfrahm/Nlw2
-
+[license-url]: https://github.com/Gabrielfrahm/Nlw2/blob/master/LICENSE
 [node-url]: https://nodejs.org/en
 [yarn-url]: https://classic.yarnpkg.com/
 [npm-url]:  https://www.npmjs.com/
@@ -31,7 +31,7 @@
 
 <div align="center">  
     
-[![License][license-badge]][license-url]
+![License][license-badge]
 ![Git Stars][star-badge]
 ![NLW Stats][nlw-badge]
 
