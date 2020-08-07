@@ -6,7 +6,7 @@
 <!-- VARS -->
 
 [license-badge]: https://img.shields.io/github/license/pmqueiroz/proffy?color=%238257E5
-[star-badge]: https://img.shields.io/github/issues/Gabrielfrahm/Nlw2
+[star-badge]: https://img.shields.io/github/stars/Gabrielfrahm/Nlw2
 [license-url]: https://github.com/Gabrielfrahm/Nlw2/blob/master/LICENSE
 [node-url]: https://nodejs.org/en
 [yarn-url]: https://classic.yarnpkg.com/
